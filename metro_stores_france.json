@@ -1,0 +1,2774 @@
+[
+    {
+        "store_name": "Agen",
+        "address": {
+            "full": "Allées des Riols - Lieu-dit la Capelette",
+            "city": "Agen",
+            "region": "Nouvelle-Aquitaine",
+            "department": "Lot-et-Garonne",
+            "longitude": 0.622536,
+            "latitude": 44.179295
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=44.179295,0.622536",
+        "store_source": "https://www.metro.fr/halles/agen"
+    },
+    {
+        "store_name": "Aix-en-Provence (Venelles)",
+        "address": {
+            "full": "944 rue de la gare",
+            "city": "Venelles",
+            "region": "Provence-Alpes-Côte d'Azur",
+            "department": "Bouches-du-Rhône",
+            "longitude": 5.47030619999998,
+            "latitude": 43.5842208
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.5842208,5.470306199999982",
+        "store_source": "https://www.metro.fr/halles/aix-en-provence"
+    },
+    {
+        "store_name": "Albertville",
+        "address": {
+            "full": "Zone d'activités des Vernes - 33 rue Robert Piddat",
+            "city": "Albertville",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Savoie",
+            "longitude": 6.4119807,
+            "latitude": 45.6639773
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.6639773,6.4119807",
+        "store_source": "https://www.metro.fr/halles/albertville"
+    },
+    {
+        "store_name": "Alès",
+        "address": {
+            "full": "1173 ancien chemin de Mons",
+            "city": "Alès",
+            "region": "Occitanie",
+            "department": "Gard",
+            "longitude": 4.1078196999,
+            "latitude": 44.1252835
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=44.1252835,4.1078196999",
+        "store_source": "https://www.metro.fr/halles/ales"
+    },
+    {
+        "store_name": "Amiens",
+        "address": {
+            "full": "Espace Industriel de Longpré - Avenue Roger Dumoulin",
+            "city": "Amiens",
+            "region": "Hauts-de-France",
+            "department": "Somme",
+            "longitude": 2.286851,
+            "latitude": 49.928524
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=49.928524,2.286851",
+        "store_source": "https://www.metro.fr/halles/amiens"
+    },
+    {
+        "store_name": "Angers (Saint-Barthélémy-d'Anjou)",
+        "address": {
+            "full": "ZI La Romanerie Nord - 2 Rue du Cloteau",
+            "city": "Saint-Barthélémy-d'Anjou",
+            "region": "Pays de la Loire",
+            "department": "Maine-et-Loire",
+            "longitude": -0.50155,
+            "latitude": 47.484385
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.484385,-0.501550",
+        "store_source": "https://www.metro.fr/halles/angers"
+    },
+    {
+        "store_name": "Anglet",
+        "address": {
+            "full": "7 rue du Moulin de Brindos",
+            "city": "Anglet",
+            "region": "Nouvelle-Aquitaine",
+            "department": "Pyrénées-Atlantiques",
+            "longitude": -1.5181492,
+            "latitude": 43.462515
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.462515,-1.5181492",
+        "store_source": "https://www.metro.fr/halles/anglet"
+    },
+    {
+        "store_name": "Angoulême",
+        "address": {
+            "full": "Rue des marais de Grelet - La Combe à Rosier",
+            "city": "Angoulême",
+            "region": "Nouvelle-Aquitaine",
+            "department": "Charente",
+            "longitude": 0.1262919,
+            "latitude": 45.642625
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.642625,0.1262919",
+        "store_source": "https://www.metro.fr/halles/angouleme"
+    },
+    {
+        "store_name": "Annecy",
+        "address": {
+            "full": "Allée Jean Mermoz - ZAC des Romains - La Salle",
+            "city": "Cran-Gevrier",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Haute-Savoie",
+            "longitude": 6.090824,
+            "latitude": 45.906736
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.906736,6.090824",
+        "store_source": "https://www.metro.fr/halles/annecy"
+    },
+    {
+        "store_name": "Annemasse (Ville-la-Grand)",
+        "address": {
+            "full": "Rue du Bois de la Rose",
+            "city": "Ville-la-Grand",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Haute-Savoie",
+            "longitude": 6.276226,
+            "latitude": 46.205832
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=46.205832,6.276226",
+        "store_source": "https://www.metro.fr/halles/annemasse"
+    },
+    {
+        "store_name": "Auxerre (Monéteau)",
+        "address": {
+            "full": "Rue Saint-Exupéry - Parc d'Activités des Terres du Canada",
+            "city": "Moneteau",
+            "region": "Bourgogne-Franche-Comté",
+            "department": "Yonne",
+            "longitude": 3.580153,
+            "latitude": 47.832513
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.832513,3.580153",
+        "store_source": "https://www.metro.fr/halles/auxerre"
+    },
+    {
+        "store_name": "Avignon",
+        "address": {
+            "full": "Marché d'Intérêt National Avignon Sud - 135 avenue Pierre Semard",
+            "city": "Avignon",
+            "region": "Provence-Alpes-Côte d'Azur",
+            "department": "Vaucluse",
+            "longitude": 4.838926,
+            "latitude": 43.931628
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:30:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "05:30:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.931628,4.838926",
+        "store_source": "https://www.metro.fr/halles/avignon"
+    },
+    {
+        "store_name": "Belfort",
+        "address": {
+            "full": "Rue Albert Camus",
+            "city": "Belfort",
+            "region": "Bourgogne-Franche-Comté",
+            "department": "Territoire de Belfort",
+            "longitude": 6.88373,
+            "latitude": 47.643195
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.643195,6.883730",
+        "store_source": "https://www.metro.fr/halles/belfort"
+    },
+    {
+        "store_name": "Besançon",
+        "address": {
+            "full": "6 rue Alfred Kastler",
+            "city": "Besançon",
+            "region": "Bourgogne-Franche-Comté",
+            "department": "Doubs",
+            "longitude": 5.976755,
+            "latitude": 47.228299
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.228299,5.976755",
+        "store_source": "https://www.metro.fr/halles/besancon"
+    },
+    {
+        "store_name": "Bobigny",
+        "address": {
+            "full": "ZI les Vignes - 35-77 rue Benoît Frachon",
+            "city": "Bobigny",
+            "region": "Île-de-France",
+            "department": "Seine-Saint-Denis",
+            "longitude": 2.430712,
+            "latitude": 48.903513
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:00:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "05:00:00",
+                "close": "19:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.903513,2.430712",
+        "store_source": "https://www.metro.fr/halles/bobigny"
+    },
+    {
+        "store_name": "Bordeaux (Gradignan)",
+        "address": {
+            "full": "ZA de Bersol - 17 avenue de l'Europe",
+            "city": "Gradignan",
+            "region": "Nouvelle-Aquitaine",
+            "department": "Gironde",
+            "longitude": -0.644644,
+            "latitude": 44.775093
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=44.775093,-0.644644",
+        "store_source": "https://www.metro.fr/halles/bordeaux-gradignan"
+    },
+    {
+        "store_name": "Bordeaux-Lac",
+        "address": {
+            "full": "Z.A.C. de Gros Chemin de Labarde - BP 73",
+            "city": "Bordeaux",
+            "region": "Nouvelle-Aquitaine",
+            "department": "Gironde",
+            "longitude": -0.548868,
+            "latitude": 44.891917
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:30:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "05:30:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=44.891917,-0.548868",
+        "store_source": "https://www.metro.fr/halles/bordeaux"
+    },
+    {
+        "store_name": "Boulogne-sur-Mer (Saint-Martin-Boulogne)",
+        "address": {
+            "full": "Zone de l'Inquétrie - Rue du Moulin l'Abbé",
+            "city": "Saint-Martin-Boulogne",
+            "region": "Hauts-de-France",
+            "department": "Pas-de-Calais",
+            "longitude": 1.683424,
+            "latitude": 50.731137
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=50.731137,1.683424",
+        "store_source": "https://www.metro.fr/halles/boulogne-sur-mer"
+    },
+    {
+        "store_name": "Bourg-en-Bresse (Viriat)",
+        "address": {
+            "full": "55 rue Michael Faraday - Parc de la Chambière",
+            "city": "Viriat",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Ain",
+            "longitude": 5.208784,
+            "latitude": 46.218409
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=46.218409,5.208784",
+        "store_source": "https://www.metro.fr/halles/bourg-en-bresse"
+    },
+    {
+        "store_name": "Bourges",
+        "address": {
+            "full": "ZAC de Beaulieu - 18 Route Charles Durand",
+            "city": "Bourges",
+            "region": "Centre-Val de Loire",
+            "department": "Cher",
+            "longitude": 2.355181,
+            "latitude": 47.057085
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.057085,2.355181",
+        "store_source": "https://www.metro.fr/halles/bourges"
+    },
+    {
+        "store_name": "Brest (Gouesnou)",
+        "address": {
+            "full": "ZI de Kergaradec - 2 Rue Henri Becquerel",
+            "city": "Gouesnou",
+            "region": "Bretagne",
+            "department": "Finistère",
+            "longitude": -4.451788,
+            "latitude": 48.431968
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.431968,-4.451788",
+        "store_source": "https://www.metro.fr/halles/brest"
+    },
+    {
+        "store_name": "Brive-la-Gaillarde",
+        "address": {
+            "full": "Rue Louis Taurisson - Parc d'entreprises de Brive Ouest",
+            "city": "Brive-la-Gaillarde",
+            "region": "Nouvelle-Aquitaine",
+            "department": "Corrèze",
+            "longitude": 1.484576,
+            "latitude": 45.140307
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.140307,1.484576",
+        "store_source": "https://www.metro.fr/halles/brive-la-gaillarde"
+    },
+    {
+        "store_name": "Béziers",
+        "address": {
+            "full": "ZAC Parc Actipolis - Avenue du Viguier",
+            "city": "Villeneuve-les-Béziers",
+            "region": "Occitanie",
+            "department": "Hérault",
+            "longitude": 3.276036,
+            "latitude": 43.334894
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.334894,3.276036",
+        "store_source": "https://www.metro.fr/halles/beziers"
+    },
+    {
+        "store_name": "Caen",
+        "address": {
+            "full": "570 Avenue du général de Gaulle",
+            "city": "Hérouville-Saint-Clair",
+            "region": "Normandie",
+            "department": "Calvados",
+            "longitude": -0.345504,
+            "latitude": 49.209612
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=49.209612,-0.345504",
+        "store_source": "https://www.metro.fr/halles/caen"
+    },
+    {
+        "store_name": "Calais",
+        "address": {
+            "full": "ZAC Marcel-Doret - Rue Louis Breguet",
+            "city": "Calais",
+            "region": "Hauts-de-France",
+            "department": "Pas-de-Calais",
+            "longitude": 1.911437,
+            "latitude": 50.953316
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=50.953316,1.911437",
+        "store_source": "https://www.metro.fr/halles/calais"
+    },
+    {
+        "store_name": "Cannes",
+        "address": {
+            "full": "Rue de la Praderie",
+            "city": "Cannes-la-Bocca",
+            "region": "Provence-Alpes-Côte d'Azur",
+            "department": "Alpes-Maritimes",
+            "longitude": 6.9653571,
+            "latitude": 43.5485252
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "05:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.5485252,6.9653571",
+        "store_source": "https://www.metro.fr/halles/cannes"
+    },
+    {
+        "store_name": "Carcassonne",
+        "address": {
+            "full": "460 rue Gustave Eiffel",
+            "city": "Carcassonne",
+            "region": "Occitanie",
+            "department": "Aude",
+            "longitude": 2.3012695,
+            "latitude": 43.2068563
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.2068563,%202.3012695",
+        "store_source": "https://www.metro.fr/halles/carcassonne"
+    },
+    {
+        "store_name": "Cergy (Saint-Ouen-l'Aumône)",
+        "address": {
+            "full": "Parc d'activités du Vert Galant - Avenue du Fond de Vaux",
+            "city": "Saint-Ouen-l'Aumône",
+            "region": "Île-de-France",
+            "department": "Val-d'Oise",
+            "longitude": 2.146444,
+            "latitude": 49.052766
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=49.052766,2.146444",
+        "store_source": "https://www.metro.fr/halles/cergy"
+    },
+    {
+        "store_name": "Chalon-sur-Saône (Saint-Marcel)",
+        "address": {
+            "full": "Rue Louis Alphonse Poitevin",
+            "city": "Saint-Marcel",
+            "region": "Bourgogne-Franche-Comté",
+            "department": "Saône-et-Loire",
+            "longitude": 4.865394,
+            "latitude": 46.769369
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=46.769369,4.865394",
+        "store_source": "https://www.metro.fr/halles/chalon-sur-saone"
+    },
+    {
+        "store_name": "Chambéry (Voglans)",
+        "address": {
+            "full": "Parc d'activités \"La dent du chat\"",
+            "city": "Voglans",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Savoie",
+            "longitude": 5.888524,
+            "latitude": 45.621545
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.621545,5.888524",
+        "store_source": "https://www.metro.fr/halles/chambery"
+    },
+    {
+        "store_name": "Chamonix (Passy)",
+        "address": {
+            "full": "195 rue de l'Adret ZI des Raches -  PAE du Mont Blanc",
+            "city": "Passy",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Haute-Savoie",
+            "longitude": 6.716332,
+            "latitude": 45.915096
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.915096,6.716332",
+        "store_source": "https://www.metro.fr/halles/chamonix"
+    },
+    {
+        "store_name": "Charleville-Mézières",
+        "address": {
+            "full": "ZA du Val de Vence - Rue Jean-Baptiste LEFORT",
+            "city": "Charleville-Mézières",
+            "region": "Grand Est",
+            "department": "Ardennes",
+            "longitude": 4.727909,
+            "latitude": 49.741625
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=49.741625,4.727909",
+        "store_source": "https://www.metro.fr/halles/charleville-mezieres"
+    },
+    {
+        "store_name": "Chartres",
+        "address": {
+            "full": "Z.I. Poillot - Rue Charles Coulombs",
+            "city": "Chartres",
+            "region": "Centre-Val de Loire",
+            "department": "Eure-et-Loir",
+            "longitude": 1.518916,
+            "latitude": 48.436667
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.436667,1.518916",
+        "store_source": "https://www.metro.fr/halles/chartres"
+    },
+    {
+        "store_name": "Chennevières-sur-Marne",
+        "address": {
+            "full": "8 Rue Gay Lussac",
+            "city": "Chennevières-sur-Marne",
+            "region": "Île-de-France",
+            "department": "Val-de-Marne",
+            "longitude": 2.542407,
+            "latitude": 48.79906
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:00:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "05:00:00",
+                "close": "18:30:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.799060,2.542407",
+        "store_source": "https://www.metro.fr/halles/chennevieres"
+    },
+    {
+        "store_name": "Cherbourg (La Glacerie)",
+        "address": {
+            "full": "Les Rouges Terres - RN13",
+            "city": "La Glacerie",
+            "region": "Normandie",
+            "department": "Manche",
+            "longitude": -1.599548,
+            "latitude": 49.6076
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=49.607600,-1.599548",
+        "store_source": "https://www.metro.fr/halles/cherbourg"
+    },
+    {
+        "store_name": "Clermont-Ferrand",
+        "address": {
+            "full": "ZI de la Combaude Sud - 28 boulevard Louis Chartoire",
+            "city": "Clermont-Ferrand",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Puy-de-Dôme",
+            "longitude": 3.142312,
+            "latitude": 45.797795
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.797795,3.142312",
+        "store_source": "https://www.metro.fr/halles/clermont-ferrand"
+    },
+    {
+        "store_name": "Colmar",
+        "address": {
+            "full": "ZI Nord - 45 rue Denis Papin",
+            "city": "Colmar",
+            "region": "Grand Est",
+            "department": "Haut-Rhin",
+            "longitude": 7.376974,
+            "latitude": 48.111577
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.111577,7.376974",
+        "store_source": "https://www.metro.fr/halles/colmar"
+    },
+    {
+        "store_name": "Creil (Saint-Maximin)",
+        "address": {
+            "full": "ZAC du Bois des Fenêtres - Rue de la Révolution Française",
+            "city": "Saint-Maximin",
+            "region": "Hauts-de-France",
+            "department": "Oise",
+            "longitude": 2.461399,
+            "latitude": 49.236096
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=49.236096,2.461399",
+        "store_source": "https://www.metro.fr/halles/creil"
+    },
+    {
+        "store_name": "Dijon (Marsannay-la-Côte)",
+        "address": {
+            "full": "Boulevard Charles-de-Gaulle",
+            "city": "Marsannay-la-Côte",
+            "region": "Bourgogne-Franche-Comté",
+            "department": "Côte-d'Or",
+            "longitude": 5.01682,
+            "latitude": 47.27772
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.27772,5.01682",
+        "store_source": "https://www.metro.fr/halles/dijon"
+    },
+    {
+        "store_name": "Epinal",
+        "address": {
+            "full": "ZAC de la Roche - 19 allée des Rapailles",
+            "city": "Epinal",
+            "region": "Grand Est",
+            "department": "Vosges",
+            "longitude": 6.475511,
+            "latitude": 48.18508
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.185080,6.475511",
+        "store_source": "https://www.metro.fr/halles/epinal"
+    },
+    {
+        "store_name": "Evry (Lisses)",
+        "address": {
+            "full": "Pièce de la Remise - D 446 - La Plaine aux Bergers",
+            "city": "Lisses-Evry",
+            "region": "Île-de-France",
+            "department": "Essonne",
+            "longitude": 2.4363,
+            "latitude": 48.61028
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "05:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.61028,2.4363",
+        "store_source": "https://www.metro.fr/halles/evry"
+    },
+    {
+        "store_name": "Fréjus",
+        "address": {
+            "full": "ZI du Capitou de l'Estérel 834 Av. Jean Lachenaud",
+            "city": "Fréjus",
+            "region": "Provence-Alpes-Côte d'Azur",
+            "department": "Var",
+            "longitude": 6.734046,
+            "latitude": 43.46669
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.466690,6.734046",
+        "store_source": "https://www.metro.fr/halles/frejus"
+    },
+    {
+        "store_name": "Grenoble (Sassenage)",
+        "address": {
+            "full": "ZI l'Argentière - 8 rue François Blumet",
+            "city": "Sassenage",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Isère",
+            "longitude": 5.677177,
+            "latitude": 45.209615
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.209615,5.677177",
+        "store_source": "https://www.metro.fr/halles/grenoble"
+    },
+    {
+        "store_name": "Hénin-Beaumont",
+        "address": {
+            "full": "Chemin de Noyelles Godault",
+            "city": "Hénin-Beaumont",
+            "region": "Hauts-de-France",
+            "department": "Pas-de-Calais",
+            "longitude": 2.978512,
+            "latitude": 50.402282
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=50.402282,2.978512",
+        "store_source": "https://www.metro.fr/halles/henin-beaumont"
+    },
+    {
+        "store_name": "La Rochelle (Périgny)",
+        "address": {
+            "full": "Avenue Paul Langevin",
+            "city": "Périgny",
+            "region": "Nouvelle-Aquitaine",
+            "department": "Charente-Maritime",
+            "longitude": -1.095138,
+            "latitude": 46.161828
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=46.161828,-1.095138",
+        "store_source": "https://www.metro.fr/halles/la-rochelle"
+    },
+    {
+        "store_name": "La-Roche-sur-Yon (Venansault)",
+        "address": {
+            "full": "ZAC de la Landette Nord - Rue Gutemberg",
+            "city": "Venansault",
+            "region": "Pays de la Loire",
+            "department": "Vendée",
+            "longitude": -1.51259,
+            "latitude": 46.652352
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=46.652352,-1.512590",
+        "store_source": "https://www.metro.fr/halles/la-roche-sur-yon"
+    },
+    {
+        "store_name": "Le Havre",
+        "address": {
+            "full": "2 rue Desmarais",
+            "city": "Le Havre",
+            "region": "Normandie",
+            "department": "Seine-Maritime",
+            "longitude": 0.148878,
+            "latitude": 49.489409
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=49.489409,0.148878",
+        "store_source": "https://www.metro.fr/halles/le-havre"
+    },
+    {
+        "store_name": "Le Mans",
+        "address": {
+            "full": "Chemin de La Foucaudière",
+            "city": "Le Mans",
+            "region": "Pays de la Loire",
+            "department": "Sarthe",
+            "longitude": 0.20032,
+            "latitude": 47.978515
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.978515,0.200320",
+        "store_source": "https://www.metro.fr/halles/le-mans"
+    },
+    {
+        "store_name": "Limoges",
+        "address": {
+            "full": "Avenue de l'Abattoir",
+            "city": "Limoges",
+            "region": "Nouvelle-Aquitaine",
+            "department": "Haute-Vienne",
+            "longitude": 1.2595735,
+            "latitude": 45.8106536
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.8106536,1.2595735",
+        "store_source": "https://www.metro.fr/halles/limoges"
+    },
+    {
+        "store_name": "Lomme",
+        "address": {
+            "full": "Rue des fusillés",
+            "city": "Lomme",
+            "region": "Hauts-de-France",
+            "department": "Nord",
+            "longitude": 2.971283,
+            "latitude": 50.639636
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:30:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "05:30:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=50.639636,2.971283",
+        "store_source": "https://www.metro.fr/halles/lomme"
+    },
+    {
+        "store_name": "Lorient (Lanester)",
+        "address": {
+            "full": "ZI de Lann Sevelin - Route de Kerviec",
+            "city": "Lanester",
+            "region": "Bretagne",
+            "department": "Morbihan",
+            "longitude": -3.349175,
+            "latitude": 47.780944
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.780944,-3.349175",
+        "store_source": "https://www.metro.fr/halles/lorient"
+    },
+    {
+        "store_name": "Lyon (Limonest)",
+        "address": {
+            "full": "Parc d'activités de Limonest - Chemin de la Bruyère",
+            "city": "LimonestFrance",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Rhône",
+            "longitude": 4.77234,
+            "latitude": 45.809847
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.809847,4.772340",
+        "store_source": "https://www.metro.fr/halles/lyon-limonest"
+    },
+    {
+        "store_name": "Lyon (Vaulx-en-Velin)",
+        "address": {
+            "full": "2 avenue Charles-de-Gaulles - ZI les Rubines",
+            "city": "Vaulx-en-Velin",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Rhône",
+            "longitude": 4.92987,
+            "latitude": 45.781064
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:30:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.781064,4.929870",
+        "store_source": "https://www.metro.fr/halles/lyon-vaulx-en-velin"
+    },
+    {
+        "store_name": "Lyon-Gerland",
+        "address": {
+            "full": "40 Boulevard de l'Artillerie",
+            "city": "Lyon",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Rhône",
+            "longitude": 4.8426581,
+            "latitude": 45.7335279
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:00:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "05:00:00",
+                "close": "20:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.7335279,4.8426581",
+        "store_source": "https://www.metro.fr/halles/lyon-gerland"
+    },
+    {
+        "store_name": "Mantes-la-Jolie (Buchelay)",
+        "address": {
+            "full": "105 Rue des Closeaux",
+            "city": "Buchelay",
+            "region": "Île-de-France",
+            "department": "Yvelines",
+            "longitude": 1.67815,
+            "latitude": 48.99246
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.99246,1.67815",
+        "store_source": "https://www.metro.fr/halles/mantes-la-jolie"
+    },
+    {
+        "store_name": "Marseille (Les Pennes)",
+        "address": {
+            "full": "Square du Général-de-Gaulle",
+            "city": "Les Pennes-Mirabeau",
+            "region": "Provence-Alpes-Côte d'Azur",
+            "department": "Bouches-du-Rhône",
+            "longitude": 5.321667,
+            "latitude": 43.408259
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:00:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "05:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.408259,5.321667",
+        "store_source": "https://www.metro.fr/halles/marseille-les-pennes"
+    },
+    {
+        "store_name": "Marseille-La Valentine",
+        "address": {
+            "full": "Montée du Commandant de Robien ZAC de la Valentine",
+            "city": "Marseille",
+            "region": "Provence-Alpes-Côte d'Azur",
+            "department": "Bouches-du-Rhône",
+            "longitude": 5.486365,
+            "latitude": 43.286664
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "05:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.286664,5.486365",
+        "store_source": "https://www.metro.fr/halles/marseille-la-valentine"
+    },
+    {
+        "store_name": "Meaux",
+        "address": {
+            "full": "Rue du Vide Arpents",
+            "city": "Meaux",
+            "region": "Île-de-France",
+            "department": "Seine-et-Marne",
+            "longitude": 2.90417,
+            "latitude": 48.963584
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.963584,2.90417",
+        "store_source": "https://www.metro.fr/halles/meaux"
+    },
+    {
+        "store_name": "Metz",
+        "address": {
+            "full": "Rue du Trou aux Serpents - ZAC du port autonome de Metz",
+            "city": "Metz",
+            "region": "Grand Est",
+            "department": "Moselle",
+            "longitude": 6.181185,
+            "latitude": 49.137754
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:30:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "05:30:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=49.137754,6.181185",
+        "store_source": "https://www.metro.fr/halles/metz"
+    },
+    {
+        "store_name": "Montpellier",
+        "address": {
+            "full": "3274 avenue Etienne Mehul",
+            "city": "Montpellier",
+            "region": "Occitanie",
+            "department": "Hérault",
+            "longitude": 3.859369,
+            "latitude": 43.573408
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:30:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "05:30:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.573408,3.859369",
+        "store_source": "https://www.metro.fr/halles/montpellier"
+    },
+    {
+        "store_name": "Montélimar",
+        "address": {
+            "full": "Boulevard Charles André",
+            "city": "Montélimar",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Drôme",
+            "longitude": 4.739529,
+            "latitude": 44.526525
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=44.526525,4.739529",
+        "store_source": "https://www.metro.fr/halles/montelimar"
+    },
+    {
+        "store_name": "Mulhouse (Kingersheim)",
+        "address": {
+            "full": "Rue de la Griotte",
+            "city": "Kingersheim",
+            "region": "Grand Est",
+            "department": "Haut-Rhin",
+            "longitude": 7.311098,
+            "latitude": 47.792306
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:30:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "05:30:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.792306,7.311098",
+        "store_source": "https://www.metro.fr/halles/mulhouse"
+    },
+    {
+        "store_name": "Nancy",
+        "address": {
+            "full": "Rue Marcel Brot - Rond Point Jarville",
+            "city": "Nancy",
+            "region": "Grand Est",
+            "department": "Meurthe-et-Moselle",
+            "longitude": 6.205943,
+            "latitude": 48.67629
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:30:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "05:30:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.676290,6.205943",
+        "store_source": "https://www.metro.fr/halles/nancy"
+    },
+    {
+        "store_name": "Nanterre",
+        "address": {
+            "full": "5 rue des Grands Prés - ZA du Petit Nanterre",
+            "city": "Nanterre",
+            "region": "Île-de-France",
+            "department": "Hauts-de-Seine",
+            "longitude": 2.214484,
+            "latitude": 48.910365
+        },
+        "contact": {
+            "phone": "08 25 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:00:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "05:00:00",
+                "close": "19:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.910365,2.214484",
+        "store_source": "https://www.metro.fr/halles/nanterre"
+    },
+    {
+        "store_name": "Nantes",
+        "address": {
+            "full": "ZAC de Gros - 361 route de Saint-Luce - BP 537",
+            "city": "Nantes",
+            "region": "Pays de la Loire",
+            "department": "Loire-Atlantique",
+            "longitude": -1.4967954,
+            "latitude": 47.2467221
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:30:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.2467221,-1.4967954",
+        "store_source": "https://www.metro.fr/halles/nantes"
+    },
+    {
+        "store_name": "Narbonne",
+        "address": {
+            "full": "Avenue de Croix Sud",
+            "city": "Narbonne",
+            "region": "Occitanie",
+            "department": "Aude",
+            "longitude": 2.986278,
+            "latitude": 43.158673
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.158673,2.9862780",
+        "store_source": "https://www.metro.fr/halles/narbonne"
+    },
+    {
+        "store_name": "Nice",
+        "address": {
+            "full": "CCPlaine 1 - 60 avenue Pierre Isnard",
+            "city": "Nice",
+            "region": "Provence-Alpes-Côte d'Azur",
+            "department": "Alpes-Maritimes",
+            "longitude": 7.196845,
+            "latitude": 43.688473
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:00:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "05:00:00",
+                "close": "19:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.688473,7.196845",
+        "store_source": "https://www.metro.fr/halles/nice"
+    },
+    {
+        "store_name": "Nîmes (Caissargues)",
+        "address": {
+            "full": "Zone d'activités EURO 2000",
+            "city": "Caissargues",
+            "region": "Occitanie",
+            "department": "Gard",
+            "longitude": 4.385236,
+            "latitude": 43.796342
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:30:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "05:30:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.796342,4.385236",
+        "store_source": "https://www.metro.fr/halles/nimes"
+    },
+    {
+        "store_name": "Orléans (La Chapelle-Saint-Mesnin)",
+        "address": {
+            "full": "Rue des Hauts-Champs",
+            "city": "La Chapelle-Saint-Mesmin",
+            "region": "Centre-Val de Loire",
+            "department": "Loiret",
+            "longitude": 1.8455521,
+            "latitude": 47.8986094
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.8986094,1.8455521",
+        "store_source": "https://www.metro.fr/halles/orleans"
+    },
+    {
+        "store_name": "Paris 12 - Bercy",
+        "address": {
+            "full": "24 avenue des Terroirs de France",
+            "city": "Paris",
+            "region": "Île-de-France",
+            "department": "Paris",
+            "longitude": 2.38774421,
+            "latitude": 48.8313664
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "02:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "20:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.8313664,2.38774421",
+        "store_source": "https://www.metro.fr/halles/paris-12"
+    },
+    {
+        "store_name": "Paris 18 - La Chapelle",
+        "address": {
+            "full": "55ter rue de la Chapelle",
+            "city": "Paris",
+            "region": "Île-de-France",
+            "department": "Paris (75)",
+            "longitude": 2.358843,
+            "latitude": 48.894702
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "02:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "20:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.894702,2.358843",
+        "store_source": "https://www.metro.fr/halles/la-chapelle"
+    },
+    {
+        "store_name": "Pau (Lons)",
+        "address": {
+            "full": "ZAC du Parvis - Avenue du Perlic",
+            "city": "Lons",
+            "region": "Nouvelle-Aquitaine",
+            "department": "Pyrénées-Atlantiques",
+            "longitude": -0.3856113,
+            "latitude": 43.3302488
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.3302488,-0.3856113",
+        "store_source": "https://www.metro.fr/halles/pau"
+    },
+    {
+        "store_name": "Perpignan",
+        "address": {
+            "full": "ZAC Saint-Charles - 550 avenue de Milan",
+            "city": "Perpignan",
+            "region": "Occitanie",
+            "department": "Pyrénées-Orientales",
+            "longitude": 2.858363,
+            "latitude": 42.689546
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=42.689546,2.858363",
+        "store_source": "https://www.metro.fr/halles/perpignan"
+    },
+    {
+        "store_name": "Poitiers",
+        "address": {
+            "full": "ZI de Larnay - Avenue Marcel Dassault",
+            "city": "Poitiers",
+            "region": "Nouvelle-Aquitaine",
+            "department": "Vienne",
+            "longitude": 0.314256,
+            "latitude": 46.599162
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=46.599162,0.314256",
+        "store_source": "https://www.metro.fr/halles/poitiers"
+    },
+    {
+        "store_name": "Périgueux",
+        "address": {
+            "full": "Quartier de Gardanne - Route de Lyon",
+            "city": "Périgueux",
+            "region": "Nouvelle-Aquitaine",
+            "department": "Dordogne",
+            "longitude": 2.00737939,
+            "latitude": 45.17892
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.178920,%200.737939",
+        "store_source": "https://www.metro.fr/halles/perigueux"
+    },
+    {
+        "store_name": "Quimper (Ergué-Gabéric)",
+        "address": {
+            "full": "Rond Point de Kerourvois - Route de Coray",
+            "city": "Ergué-Gabéric",
+            "region": "Bretagne",
+            "department": "Finistère",
+            "longitude": -4.0459,
+            "latitude": 48.001622
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.001622,-4.045900",
+        "store_source": "https://www.metro.fr/halles/quimper"
+    },
+    {
+        "store_name": "Reims",
+        "address": {
+            "full": "83 rue Ernest Renan",
+            "city": "Reims",
+            "region": "Grand Est",
+            "department": "Marne",
+            "longitude": 4.010816,
+            "latitude": 49.262189
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=49.262189,4.010816",
+        "store_source": "https://www.metro.fr/halles/reims"
+    },
+    {
+        "store_name": "Rennes",
+        "address": {
+            "full": "21 rue Louis-Kerautret-Botmel",
+            "city": "Rennes",
+            "region": "Bretagne",
+            "department": "Ille-et-Vilaine",
+            "longitude": -1.633005,
+            "latitude": 48.091757
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.091757,-1.633005",
+        "store_source": "https://www.metro.fr/halles/rennes"
+    },
+    {
+        "store_name": "Rouen (Sotteville-les-Rouen)",
+        "address": {
+            "full": "55 chemin du Halage",
+            "city": "Sotteville-les-Rouen",
+            "region": "Normandie",
+            "department": "Seine-Maritime",
+            "longitude": 1.111705,
+            "latitude": 49.413375
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=49.413375,1.111705",
+        "store_source": "https://www.metro.fr/halles/rouen"
+    },
+    {
+        "store_name": "Saint-Brieuc",
+        "address": {
+            "full": "16 rue Ampère",
+            "city": "Saint-Brieuc",
+            "region": "Bretagne",
+            "department": "Côtes-d'Armor",
+            "longitude": -2.7348607,
+            "latitude": 48.5045884
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.5045884,-2.7348607",
+        "store_source": "https://www.metro.fr/halles/saint-brieuc"
+    },
+    {
+        "store_name": "Saint-Etienne",
+        "address": {
+            "full": "38 rue des 3 Glorieuses",
+            "city": "Saint-Etienne",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Loire",
+            "longitude": 4.388298,
+            "latitude": 45.466368
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=45.466368,4.388298",
+        "store_source": "https://www.metro.fr/halles/saint-etienne"
+    },
+    {
+        "store_name": "Saint-Malo",
+        "address": {
+            "full": "ZAC des Mottais rue de la Monneraie",
+            "city": "Saint-Malo",
+            "region": "Bretagne",
+            "department": "Ille-et-Vilaine",
+            "longitude": -1.983039,
+            "latitude": 48.627554
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.627554,-1.983039",
+        "store_source": "https://www.metro.fr/halles/saint-malo"
+    },
+    {
+        "store_name": "Saint-Nazaire",
+        "address": {
+            "full": "ZAC de Brais - Rue Thomas Edison",
+            "city": "Saint-Nazaire",
+            "region": "Pays de la Loire",
+            "department": "Loire-Atlantique",
+            "longitude": -2.298798,
+            "latitude": 47.287187
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.287187,-2.298798",
+        "store_source": "https://www.metro.fr/halles/saint-nazaire"
+    },
+    {
+        "store_name": "Saint-Quentin (Gauchy)",
+        "address": {
+            "full": "ZI le Royeux",
+            "city": "Gauchy",
+            "region": "Hauts-de-France",
+            "department": "Aisne",
+            "longitude": 3.297081,
+            "latitude": 49.820263
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=49.820263,3.297081",
+        "store_source": "https://www.metro.fr/halles/saint-quentin"
+    },
+    {
+        "store_name": "Strasbourg (Souffelweyersheim)",
+        "address": {
+            "full": "37 rue des Tuileries",
+            "city": "Souffelweyersheim",
+            "region": "Grand Est",
+            "department": "Bas-Rhin",
+            "longitude": 7.726446,
+            "latitude": 48.627944
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:30:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "05:30:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.627944,7.726446",
+        "store_source": "https://www.metro.fr/halles/strasbourg"
+    },
+    {
+        "store_name": "Tarbes",
+        "address": {
+            "full": "Zone d'Activités de Bastillac Sud",
+            "city": "Tarbes",
+            "region": "Occitanie",
+            "department": "Hautes-Pyrénées",
+            "longitude": 0.041441,
+            "latitude": 43.218774
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.218774,0.041441",
+        "store_source": "https://www.metro.fr/halles/tarbes"
+    },
+    {
+        "store_name": "Toulon (Six-Fours-les-Plages)",
+        "address": {
+            "full": "171 avenue de l'Europe",
+            "city": "Six-Fours-les Plages",
+            "region": "Provence-Alpes-Côte d'Azur",
+            "department": "Var",
+            "longitude": 5.843025,
+            "latitude": 43.117494
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:30:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "05:30:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.117494,5.843025",
+        "store_source": "https://www.metro.fr/halles/toulon"
+    },
+    {
+        "store_name": "Toulouse (Portet-sur-Garonne)",
+        "address": {
+            "full": "Boulevard de Courties",
+            "city": "Portet-sur-Garonne",
+            "region": "Occitanie",
+            "department": "Haute-Garonne",
+            "longitude": 1.38834,
+            "latitude": 43.53389
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.53389,1.38834",
+        "store_source": "https://www.metro.fr/halles/toulouse-portet-sur-garonne"
+    },
+    {
+        "store_name": "Toulouse - Sesquières",
+        "address": {
+            "full": "ZI la Glacière - 8 impasse Camo - BP 4-2142",
+            "city": "Toulouse",
+            "region": "Occitanie",
+            "department": "Haute-Garonne",
+            "longitude": 1.419101,
+            "latitude": 43.641296
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:30:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "05:30:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=43.641296,1.419101",
+        "store_source": "https://www.metro.fr/halles/toulouse-sesquieres"
+    },
+    {
+        "store_name": "Tours (Saint-Cyr-sur-Loire)",
+        "address": {
+            "full": "Boulevard Alfred Nobel",
+            "city": "Saint-Cyr-sur-Loire",
+            "region": "Centre-Val de Loire",
+            "department": "Indre-et-Loire",
+            "longitude": 0.66297,
+            "latitude": 47.431809
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.431809,0.662970",
+        "store_source": "https://www.metro.fr/halles/tours"
+    },
+    {
+        "store_name": "Trappes",
+        "address": {
+            "full": "Route de Chartres (RN 10) - Zone Immoparc",
+            "city": "Trappes",
+            "region": "Île-de-France",
+            "department": "Yvelines",
+            "longitude": 1.973518,
+            "latitude": 48.765938
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "05:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.765938,1.973518",
+        "store_source": "https://www.metro.fr/halles/trappes"
+    },
+    {
+        "store_name": "Troyes (Saint-Parres-aux-Tertres)",
+        "address": {
+            "full": "Les Terrasses de Baires",
+            "city": "Saint-Parres-aux-Tertres",
+            "region": "Grand Est",
+            "department": "Aube",
+            "longitude": 4.134207,
+            "latitude": 48.294369
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.294369,4.134207",
+        "store_source": "https://www.metro.fr/halles/troyes"
+    },
+    {
+        "store_name": "Valence",
+        "address": {
+            "full": "Pôle d'activités Briffaut Est - Avenue Maurice Simonet",
+            "city": "Valence",
+            "region": "Auvergne-Rhône-Alpes",
+            "department": "Drôme",
+            "longitude": 4.932127,
+            "latitude": 44.920671
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=44.920671,4.932127",
+        "store_source": "https://www.metro.fr/halles/valence"
+    },
+    {
+        "store_name": "Valenciennes",
+        "address": {
+            "full": "Rue Ernest Macarez",
+            "city": "Valenciennes",
+            "region": "Hauts-de-France",
+            "department": "Nord",
+            "longitude": 3.536753,
+            "latitude": 50.372714
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=50.372714,3.536753",
+        "store_source": "https://www.metro.fr/halles/valenciennes"
+    },
+    {
+        "store_name": "Vannes",
+        "address": {
+            "full": "ZA du Chapeau Rouge",
+            "city": "Vannes",
+            "region": "Bretagne",
+            "department": "Morbihan",
+            "longitude": -2.72257,
+            "latitude": 47.667636
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=47.667636,-2.722570",
+        "store_source": "https://www.metro.fr/halles/vannes"
+    },
+    {
+        "store_name": "Vaux-le-Pénil",
+        "address": {
+            "full": "Rue de la plaine de la croix Besnard",
+            "city": "Vaux-le-Pénil",
+            "region": "Île-de-France",
+            "department": "Seine-et-Marne",
+            "longitude": 2.695145,
+            "latitude": 48.532525
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.532525,2.695145",
+        "store_source": "https://www.metro.fr/halles/vaux-le-penil"
+    },
+    {
+        "store_name": "Villeneuve-la-Garenne",
+        "address": {
+            "full": "102-104 avenue de Verdun",
+            "city": "Villeneuve-la-Garenne",
+            "region": "Île-de-France",
+            "department": "Hauts-de-Seine",
+            "longitude": 2.322615,
+            "latitude": 48.934755
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:00:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "05:00:00",
+                "close": "19:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.934755,2.322615",
+        "store_source": "https://www.metro.fr/halles/villeneuve-la-garenne"
+    },
+    {
+        "store_name": "Vitry-sur-Seine",
+        "address": {
+            "full": "67-73 rue Champollion",
+            "city": "Vitry-sur-Seine",
+            "region": "Île-de-France",
+            "department": "Val-de-Marne",
+            "longitude": 2.384865,
+            "latitude": 48.800717
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "05:00:00",
+                "close": "20:00:00"
+            },
+            "saturday": {
+                "open": "05:00:00",
+                "close": "19:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=48.800717,2.384865",
+        "store_source": "https://www.metro.fr/halles/vitry-sur-seine"
+    },
+    {
+        "store_name": "Wattrelos",
+        "address": {
+            "full": "Parc d'activité du BECK et de L'AVELIN - 3 rue des LAINIERS",
+            "city": "Wattrelos",
+            "region": "Hauts-de-France",
+            "department": "Nord",
+            "longitude": 3.2324415,
+            "latitude": 50.6954999
+        },
+        "contact": {
+            "phone": "0825 09 09 09",
+            "email": "service.clients@metro.fr"
+        },
+        "hours": {
+            "monday_to_friday": {
+                "open": "06:00:00",
+                "close": "19:00:00"
+            },
+            "saturday": {
+                "open": "06:00:00",
+                "close": "18:00:00"
+            },
+            "sunday": "closed"
+        },
+        "google_map_url": "https://maps.google.com/maps/?q=50.6954999,3.23244150",
+        "store_source": "https://www.metro.fr/halles/wattrelos"
+    }
+]
